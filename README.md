@@ -29,3 +29,21 @@ Depois fiz o merge de tudo na branch `main`, que ficou com a versão final.
 ## 👨‍💻 Autor
 
 Andreik Costa Dos Santos El Sarli
+
+## ▶️ Como executar o projeto
+
+1. Baixe ou clone o repositório
+2. Abra o arquivo `index.html` no navegador
+
+## 📌 Objetivo do desafio
+
+Praticar o uso de Git para controle de versão e aplicar conceitos básicos de Scrum, como organização por sprint, backlog e retrospectiva.
+
+## 🌱 Aprendizado
+
+Durante o projeto tive contato com:
+
+* uso de branches
+* organização de tarefas por sprint
+* envio de alterações para o GitHub
+
